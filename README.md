@@ -10,4 +10,4 @@ Due to some limitations in the above git, this project is an attempt to improve 
 Fortune magazine has its own data service. This project is for a basic information scrapping attempt, but if you need more detailed data, 
 it is advised to use the Fortune.com subscription itself. This project is only for personal use. 
 
-
+**Last Update**: 17 December, 2021.
